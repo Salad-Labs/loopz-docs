@@ -1,0 +1,40 @@
+{
+  "id": "getting-started/quick-start",
+  "title": "Quick Start Guide",
+  "description": "Get up and running with the Loopz TypeScript SDK in minutes",
+  "source": "@site/docs/getting-started/quick-start.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quick-start",
+  "permalink": "/loopz-docs/docs/getting-started/quick-start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/quick-start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "quick-start",
+    "title": "Quick Start Guide",
+    "sidebar_label": "Quick Start",
+    "sidebar_position": 3,
+    "keywords": [
+      "quick start",
+      "tutorial",
+      "getting started",
+      "example",
+      "react",
+      "authentication",
+      "chat"
+    ],
+    "description": "Get up and running with the Loopz TypeScript SDK in minutes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/loopz-docs/docs/getting-started/installation"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/loopz-docs/docs/category/guides"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "permalink": "/loopz-docs/blog/designing-react-first-web3-sdk",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-03-25-designing-react-first-web3-sdk.md",
+  "source": "@site/blog/2024-03-25-designing-react-first-web3-sdk.md",
+  "title": "Designing a React-First Web3 SDK: Patterns and Pitfalls",
+  "description": "The architectural decisions, patterns, and lessons learned while building a React-first SDK for Web3 trading and chat.",
+  "date": "2024-02-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "react",
+      "permalink": "/loopz-docs/blog/tags/react"
+    },
+    {
+      "inline": true,
+      "label": "sdk",
+      "permalink": "/loopz-docs/blog/tags/sdk"
+    },
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/loopz-docs/blog/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "hooks",
+      "permalink": "/loopz-docs/blog/tags/hooks"
+    },
+    {
+      "inline": true,
+      "label": "web3",
+      "permalink": "/loopz-docs/blog/tags/web-3"
+    }
+  ],
+  "readingTime": 4.97,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Mattia Migliore",
+      "title": "Full Stack Developer, Web3 Dev, Co-founder & CTO Salad Labs",
+      "url": "https://www.linkedin.com/in/mattia-migliore-44886090/",
+      "page": {
+        "permalink": "/loopz-docs/blog/authors/mattiamigliore"
+      },
+      "socials": {
+        "x": "https://x.com/iamNFTia",
+        "linkedin": "https://www.linkedin.com/in/mattia-migliore-44886090/",
+        "github": "https://github.com/mattiNFT"
+      },
+      "imageURL": "https://media.licdn.com/dms/image/v2/D4D03AQGgX6OKMrEJig/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689936218116?e=1756339200&v=beta&t=J2TEZjssXl4PIkLrpfZNO48c74lzVb1hdeUCJW9FryA",
+      "key": "mattiamigliore"
+    }
+  ],
+  "frontMatter": {
+    "slug": "designing-react-first-web3-sdk",
+    "title": "Designing a React-First Web3 SDK: Patterns and Pitfalls",
+    "authors": [
+      "mattiamigliore"
+    ],
+    "tags": [
+      "react",
+      "sdk",
+      "architecture",
+      "hooks",
+      "web3"
+    ],
+    "date": "2024-02-15T00:00:00.000Z",
+    "description": "The architectural decisions, patterns, and lessons learned while building a React-first SDK for Web3 trading and chat."
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Designing a Modular SDK Architecture for Web3 Applications",
+    "permalink": "/loopz-docs/blog/designing-modular-sdk-architecture-web3"
+  },
+  "nextItem": {
+    "title": "Building a Real-Time Encrypted Chat System for Web3 Trading",
+    "permalink": "/loopz-docs/blog/building-encrypted-chat-web3"
+  }
+}

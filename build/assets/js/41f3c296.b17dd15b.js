@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksdk=self.webpackChunksdk||[]).push([[9049],{5523:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/loopz-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

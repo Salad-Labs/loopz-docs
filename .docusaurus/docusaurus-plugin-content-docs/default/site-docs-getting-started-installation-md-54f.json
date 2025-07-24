@@ -1,0 +1,39 @@
+{
+  "id": "getting-started/installation",
+  "title": "Installation & Requirements",
+  "description": "How to install and set up the Loopz TypeScript SDK in your project",
+  "source": "@site/docs/getting-started/installation.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installation",
+  "permalink": "/loopz-docs/docs/getting-started/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "installation",
+    "title": "Installation & Requirements",
+    "sidebar_label": "Installation",
+    "sidebar_position": 2,
+    "keywords": [
+      "installation",
+      "setup",
+      "requirements",
+      "npm",
+      "yarn",
+      "dependencies"
+    ],
+    "description": "How to install and set up the Loopz TypeScript SDK in your project"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/loopz-docs/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/loopz-docs/docs/getting-started/quick-start"
+  }
+}

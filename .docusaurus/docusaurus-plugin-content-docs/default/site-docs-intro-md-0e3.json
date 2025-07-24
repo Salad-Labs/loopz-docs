@@ -1,0 +1,38 @@
+{
+  "id": "intro",
+  "title": "Introduction to Loopz SDK",
+  "description": "The official documentation for Loopz TypeScript SDK - Build Web3 trading applications with integrated encrypted chat",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/loopz-docs/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introduction to Loopz SDK",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1,
+    "slug": "/",
+    "keywords": [
+      "loopz",
+      "typescript",
+      "sdk",
+      "web3",
+      "nft",
+      "trading",
+      "chat",
+      "marketplace"
+    ],
+    "description": "The official documentation for Loopz TypeScript SDK - Build Web3 trading applications with integrated encrypted chat"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/loopz-docs/docs/category/getting-started"
+  }
+}

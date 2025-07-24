@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksdk=self.webpackChunksdk||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/loopz-docs/blog","blogTitle":"Blog","authorsListPath":"/loopz-docs/blog/authors"}')}}]);

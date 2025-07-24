@@ -1,0 +1,39 @@
+{
+  "id": "guides/authentication",
+  "title": "Authentication Guide",
+  "description": "Complete guide to OTP-based authentication in the Loopz SDK",
+  "source": "@site/docs/guides/authentication.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/authentication",
+  "permalink": "/loopz-docs/docs/guides/authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/authentication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "authentication",
+    "title": "Authentication Guide",
+    "sidebar_label": "Authentication",
+    "sidebar_position": 1,
+    "keywords": [
+      "authentication",
+      "OTP",
+      "email",
+      "phone",
+      "SMS",
+      "login"
+    ],
+    "description": "Complete guide to OTP-based authentication in the Loopz SDK"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guides",
+    "permalink": "/loopz-docs/docs/category/guides"
+  },
+  "next": {
+    "title": "Chat",
+    "permalink": "/loopz-docs/docs/guides/chat"
+  }
+}

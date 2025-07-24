@@ -1,0 +1,821 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "6870": [
+      867,
+      1869,
+      3249,
+      4813,
+      6061,
+      7518,
+      7643,
+      8401,
+      6870
+    ],
+    "7518": [
+      867,
+      1869,
+      3249,
+      4212,
+      4813,
+      6870,
+      7643,
+      7518
+    ],
+    "17896441": [
+      1869,
+      6870,
+      8401
+    ],
+    "42146018": [
+      3507
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "1202e704": [
+      7664
+    ],
+    "14eb3368": [
+      1869,
+      6969
+    ],
+    "1b2801df": [
+      587
+    ],
+    "1f391b9e": [
+      1869,
+      6870,
+      6061
+    ],
+    "2ae70aa7": [
+      3197
+    ],
+    "33fc5bb8": [
+      1869,
+      6870,
+      7518,
+      867
+    ],
+    "36994c47": [
+      9858
+    ],
+    "393be207": [
+      4134
+    ],
+    "3c4526c2": [
+      5283
+    ],
+    "401a4ed1": [
+      5645
+    ],
+    "41f3c296": [
+      9049
+    ],
+    "426b23de": [
+      5629
+    ],
+    "442b8fd4": [
+      8697
+    ],
+    "4ce29cb1": [
+      8026
+    ],
+    "524769f1": [
+      3397
+    ],
+    "528cbdad": [
+      9008
+    ],
+    "54f44165": [
+      7924
+    ],
+    "588bd741": [
+      4324
+    ],
+    "5c5e0745": [
+      1511
+    ],
+    "5e7f4e66": [
+      4159
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "621db11d": [
+      1869,
+      7518,
+      4212
+    ],
+    "64ef3240": [
+      4903
+    ],
+    "66a904f1": [
+      6926
+    ],
+    "6875c492": [
+      1869,
+      6870,
+      7518,
+      4813
+    ],
+    "6cbb6223": [
+      5507
+    ],
+    "71eddf79": [
+      8862
+    ],
+    "7729d2ff": [
+      3824
+    ],
+    "7c12a14e": [
+      4419
+    ],
+    "814f3328": [
+      7472
+    ],
+    "82c725d0": [
+      5320
+    ],
+    "86e38478": [
+      9184
+    ],
+    "87c2d163": [
+      3199
+    ],
+    "92008c52": [
+      2404
+    ],
+    "969bb4f3": [
+      8228
+    ],
+    "9792ec6f": [
+      8542
+    ],
+    "9d9f8394": [
+      9013
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "a6aa9e1f": [
+      1869,
+      6870,
+      7518,
+      7643
+    ],
+    "a7456010": [
+      1235
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "acecf23e": [
+      1903
+    ],
+    "c137e939": [
+      6703
+    ],
+    "c4f5d8e4": [
+      1869,
+      2634
+    ],
+    "ccc49370": [
+      1869,
+      6870,
+      7518,
+      3249
+    ],
+    "d0c6b7c4": [
+      6284
+    ],
+    "d38eaaf9": [
+      9876
+    ],
+    "e43d7884": [
+      2336
+    ],
+    "e4c8a744": [
+      7989
+    ],
+    "f83cde4f": [
+      448
+    ],
+    "f9bb027b": [
+      741
+    ],
+    "styles": [
+      867,
+      2634,
+      3249,
+      4212,
+      4813,
+      5354,
+      6061,
+      6870,
+      6969,
+      7518,
+      7643,
+      8209,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "448": {
+      "js": [
+        {
+          "file": "assets/js/f83cde4f.c485dc4d.js",
+          "hash": "0bf5342798782558",
+          "publicPath": "/loopz-docs/assets/js/f83cde4f.c485dc4d.js"
+        }
+      ]
+    },
+    "587": {
+      "js": [
+        {
+          "file": "assets/js/1b2801df.1825f259.js",
+          "hash": "2476da8de633316d",
+          "publicPath": "/loopz-docs/assets/js/1b2801df.1825f259.js"
+        }
+      ]
+    },
+    "741": {
+      "js": [
+        {
+          "file": "assets/js/f9bb027b.0ed362bc.js",
+          "hash": "2ee20678d2948b9b",
+          "publicPath": "/loopz-docs/assets/js/f9bb027b.0ed362bc.js"
+        }
+      ]
+    },
+    "867": {
+      "js": [
+        {
+          "file": "assets/js/33fc5bb8.beb00e87.js",
+          "hash": "7e6144309d006227",
+          "publicPath": "/loopz-docs/assets/js/33fc5bb8.beb00e87.js"
+        }
+      ]
+    },
+    "1235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.afb827c4.js",
+          "hash": "743ea0e3e0b9b7f6",
+          "publicPath": "/loopz-docs/assets/js/a7456010.afb827c4.js"
+        }
+      ]
+    },
+    "1511": {
+      "js": [
+        {
+          "file": "assets/js/5c5e0745.afa77b9a.js",
+          "hash": "278eede90d7e8981",
+          "publicPath": "/loopz-docs/assets/js/5c5e0745.afa77b9a.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.a32d8c84.css",
+          "hash": "12246a9f363102c3",
+          "publicPath": "/loopz-docs/assets/css/styles.a32d8c84.css"
+        }
+      ]
+    },
+    "1903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.4764238c.js",
+          "hash": "8eb8c3529e570a7c",
+          "publicPath": "/loopz-docs/assets/js/acecf23e.4764238c.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.db524747.js",
+          "hash": "f90c3bc9f88878d3",
+          "publicPath": "/loopz-docs/assets/js/2237.db524747.js"
+        }
+      ]
+    },
+    "2336": {
+      "js": [
+        {
+          "file": "assets/js/e43d7884.ac8c58de.js",
+          "hash": "586a1e743f9fed5c",
+          "publicPath": "/loopz-docs/assets/js/e43d7884.ac8c58de.js"
+        }
+      ]
+    },
+    "2404": {
+      "js": [
+        {
+          "file": "assets/js/92008c52.a51f4049.js",
+          "hash": "e4eb2e31e83e3358",
+          "publicPath": "/loopz-docs/assets/js/92008c52.a51f4049.js"
+        }
+      ]
+    },
+    "2634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.0ac51b6c.js",
+          "hash": "dd0a4e3061678664",
+          "publicPath": "/loopz-docs/assets/js/c4f5d8e4.0ac51b6c.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.352710e4.js",
+          "hash": "d823da5f1b870e75",
+          "publicPath": "/loopz-docs/assets/js/9e4087bc.352710e4.js"
+        }
+      ]
+    },
+    "3197": {
+      "js": [
+        {
+          "file": "assets/js/2ae70aa7.e48b65b0.js",
+          "hash": "4c80367785c41c0d",
+          "publicPath": "/loopz-docs/assets/js/2ae70aa7.e48b65b0.js"
+        }
+      ]
+    },
+    "3199": {
+      "js": [
+        {
+          "file": "assets/js/87c2d163.3e4b4905.js",
+          "hash": "77329344788f1aa1",
+          "publicPath": "/loopz-docs/assets/js/87c2d163.3e4b4905.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.6fb884af.js",
+          "hash": "60bb4cc354c5073c",
+          "publicPath": "/loopz-docs/assets/js/ccc49370.6fb884af.js"
+        }
+      ]
+    },
+    "3397": {
+      "js": [
+        {
+          "file": "assets/js/524769f1.29e7994d.js",
+          "hash": "28ff54819a54b887",
+          "publicPath": "/loopz-docs/assets/js/524769f1.29e7994d.js"
+        }
+      ]
+    },
+    "3507": {
+      "js": [
+        {
+          "file": "assets/js/42146018.2e2fed7f.js",
+          "hash": "6ed2c9f3385cccc0",
+          "publicPath": "/loopz-docs/assets/js/42146018.2e2fed7f.js"
+        }
+      ]
+    },
+    "3824": {
+      "js": [
+        {
+          "file": "assets/js/7729d2ff.0d94f036.js",
+          "hash": "5723a844d6609161",
+          "publicPath": "/loopz-docs/assets/js/7729d2ff.0d94f036.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.ef384b4b.js",
+          "hash": "a49fb27dab6ce86e",
+          "publicPath": "/loopz-docs/assets/js/0e384e19.ef384b4b.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.25336bde.js",
+          "hash": "82c5c9e16df879d5",
+          "publicPath": "/loopz-docs/assets/js/393be207.25336bde.js"
+        }
+      ]
+    },
+    "4159": {
+      "js": [
+        {
+          "file": "assets/js/5e7f4e66.c6c57dce.js",
+          "hash": "cbeba580b7d4da43",
+          "publicPath": "/loopz-docs/assets/js/5e7f4e66.c6c57dce.js"
+        }
+      ]
+    },
+    "4212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.ecc7afea.js",
+          "hash": "d0ce3c194402dbfc",
+          "publicPath": "/loopz-docs/assets/js/621db11d.ecc7afea.js"
+        }
+      ]
+    },
+    "4324": {
+      "js": [
+        {
+          "file": "assets/js/588bd741.80a3c30a.js",
+          "hash": "495a4d2cffe1d8ba",
+          "publicPath": "/loopz-docs/assets/js/588bd741.80a3c30a.js"
+        }
+      ]
+    },
+    "4419": {
+      "js": [
+        {
+          "file": "assets/js/7c12a14e.93af48c0.js",
+          "hash": "53f6f3c5125ab134",
+          "publicPath": "/loopz-docs/assets/js/7c12a14e.93af48c0.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.d155a6a8.js",
+          "hash": "daeafe4f4fe869b5",
+          "publicPath": "/loopz-docs/assets/js/6875c492.d155a6a8.js"
+        }
+      ]
+    },
+    "4903": {
+      "js": [
+        {
+          "file": "assets/js/64ef3240.7db2b88d.js",
+          "hash": "2c070ad538aba238",
+          "publicPath": "/loopz-docs/assets/js/64ef3240.7db2b88d.js"
+        }
+      ]
+    },
+    "5283": {
+      "js": [
+        {
+          "file": "assets/js/3c4526c2.681e0fb5.js",
+          "hash": "be056b8d3f7d8a63",
+          "publicPath": "/loopz-docs/assets/js/3c4526c2.681e0fb5.js"
+        }
+      ]
+    },
+    "5320": {
+      "js": [
+        {
+          "file": "assets/js/82c725d0.904bf8d9.js",
+          "hash": "5e25800fe1869042",
+          "publicPath": "/loopz-docs/assets/js/82c725d0.904bf8d9.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.e5ef8661.js",
+          "hash": "8159efaa7761bedc",
+          "publicPath": "/loopz-docs/assets/js/runtime~main.e5ef8661.js"
+        }
+      ]
+    },
+    "5507": {
+      "js": [
+        {
+          "file": "assets/js/6cbb6223.c7c4c14b.js",
+          "hash": "2ddefd2764594f5a",
+          "publicPath": "/loopz-docs/assets/js/6cbb6223.c7c4c14b.js"
+        }
+      ]
+    },
+    "5629": {
+      "js": [
+        {
+          "file": "assets/js/426b23de.fdbfa26a.js",
+          "hash": "c48192dc30d13d7a",
+          "publicPath": "/loopz-docs/assets/js/426b23de.fdbfa26a.js"
+        }
+      ]
+    },
+    "5645": {
+      "js": [
+        {
+          "file": "assets/js/401a4ed1.82701a1f.js",
+          "hash": "fdf574420aafc5d0",
+          "publicPath": "/loopz-docs/assets/js/401a4ed1.82701a1f.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.480bdfe5.js",
+          "hash": "5d4aa9d11a5af4b5",
+          "publicPath": "/loopz-docs/assets/js/aba21aa0.480bdfe5.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.4e0d0ada.js",
+          "hash": "eebfa383d4d447e8",
+          "publicPath": "/loopz-docs/assets/js/1f391b9e.4e0d0ada.js"
+        }
+      ]
+    },
+    "6284": {
+      "js": [
+        {
+          "file": "assets/js/d0c6b7c4.2e453547.js",
+          "hash": "9ab7d720fb727348",
+          "publicPath": "/loopz-docs/assets/js/d0c6b7c4.2e453547.js"
+        }
+      ]
+    },
+    "6703": {
+      "js": [
+        {
+          "file": "assets/js/c137e939.cb7f788e.js",
+          "hash": "8a109a29bf1a1459",
+          "publicPath": "/loopz-docs/assets/js/c137e939.cb7f788e.js"
+        }
+      ]
+    },
+    "6870": {
+      "js": [
+        {
+          "file": "assets/js/6870.9d1ac176.js",
+          "hash": "4eaa3a145e8edf04",
+          "publicPath": "/loopz-docs/assets/js/6870.9d1ac176.js"
+        }
+      ]
+    },
+    "6926": {
+      "js": [
+        {
+          "file": "assets/js/66a904f1.9fac3719.js",
+          "hash": "20c60a229212e8c5",
+          "publicPath": "/loopz-docs/assets/js/66a904f1.9fac3719.js"
+        }
+      ]
+    },
+    "6969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.4ca7fe0a.js",
+          "hash": "c4ca85e9d5c04fd6",
+          "publicPath": "/loopz-docs/assets/js/14eb3368.4ca7fe0a.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.a676f9ac.js",
+          "hash": "ea3cffb7fe658718",
+          "publicPath": "/loopz-docs/assets/js/a7bd4aaa.a676f9ac.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.521e54ed.js",
+          "hash": "4cc7664982d06128",
+          "publicPath": "/loopz-docs/assets/js/814f3328.521e54ed.js"
+        }
+      ]
+    },
+    "7518": {
+      "js": [
+        {
+          "file": "assets/js/7518.36ef291d.js",
+          "hash": "c611e2b21f2242c3",
+          "publicPath": "/loopz-docs/assets/js/7518.36ef291d.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.68a5edce.js",
+          "hash": "4289ae6b6d68e714",
+          "publicPath": "/loopz-docs/assets/js/a6aa9e1f.68a5edce.js"
+        }
+      ]
+    },
+    "7664": {
+      "js": [
+        {
+          "file": "assets/js/1202e704.6a0143fa.js",
+          "hash": "ba44f18aaa2ceb20",
+          "publicPath": "/loopz-docs/assets/js/1202e704.6a0143fa.js"
+        }
+      ]
+    },
+    "7924": {
+      "js": [
+        {
+          "file": "assets/js/54f44165.e626bfa9.js",
+          "hash": "3f00e08e82e8342f",
+          "publicPath": "/loopz-docs/assets/js/54f44165.e626bfa9.js"
+        }
+      ]
+    },
+    "7989": {
+      "js": [
+        {
+          "file": "assets/js/e4c8a744.c25b4801.js",
+          "hash": "de6d2e31ecaf157d",
+          "publicPath": "/loopz-docs/assets/js/e4c8a744.c25b4801.js"
+        }
+      ]
+    },
+    "8026": {
+      "js": [
+        {
+          "file": "assets/js/4ce29cb1.d461ae3d.js",
+          "hash": "d2e0704d2daec637",
+          "publicPath": "/loopz-docs/assets/js/4ce29cb1.d461ae3d.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.8d711edb.js",
+          "hash": "8d6d1251bb150931",
+          "publicPath": "/loopz-docs/assets/js/01a85c17.8d711edb.js"
+        }
+      ]
+    },
+    "8228": {
+      "js": [
+        {
+          "file": "assets/js/969bb4f3.ab318b3d.js",
+          "hash": "990141c1e2d56e75",
+          "publicPath": "/loopz-docs/assets/js/969bb4f3.ab318b3d.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.4991866a.js",
+          "hash": "1b888c5c9ed95f08",
+          "publicPath": "/loopz-docs/assets/js/17896441.4991866a.js"
+        }
+      ]
+    },
+    "8542": {
+      "js": [
+        {
+          "file": "assets/js/9792ec6f.5b332db2.js",
+          "hash": "7c8b0819b50b6743",
+          "publicPath": "/loopz-docs/assets/js/9792ec6f.5b332db2.js"
+        }
+      ]
+    },
+    "8697": {
+      "js": [
+        {
+          "file": "assets/js/442b8fd4.3b8648d7.js",
+          "hash": "6fded5c11136e9c2",
+          "publicPath": "/loopz-docs/assets/js/442b8fd4.3b8648d7.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.13cd7588.js",
+          "hash": "7e1043f6c756289b",
+          "publicPath": "/loopz-docs/assets/js/main.13cd7588.js"
+        }
+      ]
+    },
+    "8862": {
+      "js": [
+        {
+          "file": "assets/js/71eddf79.1c68f654.js",
+          "hash": "ea8d5af644912b1e",
+          "publicPath": "/loopz-docs/assets/js/71eddf79.1c68f654.js"
+        }
+      ]
+    },
+    "9008": {
+      "js": [
+        {
+          "file": "assets/js/528cbdad.ec7b5765.js",
+          "hash": "b2f5f37aa535ea02",
+          "publicPath": "/loopz-docs/assets/js/528cbdad.ec7b5765.js"
+        }
+      ]
+    },
+    "9013": {
+      "js": [
+        {
+          "file": "assets/js/9d9f8394.13a9da3e.js",
+          "hash": "29d6a0c763bc3b9a",
+          "publicPath": "/loopz-docs/assets/js/9d9f8394.13a9da3e.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.eab3db2a.js",
+          "hash": "fc3720e16a60ff6b",
+          "publicPath": "/loopz-docs/assets/js/a94703ab.eab3db2a.js"
+        }
+      ]
+    },
+    "9049": {
+      "js": [
+        {
+          "file": "assets/js/41f3c296.b17dd15b.js",
+          "hash": "fb305844c7c47685",
+          "publicPath": "/loopz-docs/assets/js/41f3c296.b17dd15b.js"
+        }
+      ]
+    },
+    "9184": {
+      "js": [
+        {
+          "file": "assets/js/86e38478.d1689cdf.js",
+          "hash": "805e87a295f4f0c2",
+          "publicPath": "/loopz-docs/assets/js/86e38478.d1689cdf.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.433866a6.js",
+          "hash": "80c0b36f2015b0b9",
+          "publicPath": "/loopz-docs/assets/js/5e95c892.433866a6.js"
+        }
+      ]
+    },
+    "9858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.59ca3024.js",
+          "hash": "da2474669f145d92",
+          "publicPath": "/loopz-docs/assets/js/36994c47.59ca3024.js"
+        }
+      ]
+    },
+    "9876": {
+      "js": [
+        {
+          "file": "assets/js/d38eaaf9.cde545e2.js",
+          "hash": "ecc56365234523d6",
+          "publicPath": "/loopz-docs/assets/js/d38eaaf9.cde545e2.js"
+        }
+      ]
+    }
+  }
+}

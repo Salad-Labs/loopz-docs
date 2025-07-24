@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/loopz-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/loopz-docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "getting-started/installation",
+              "path": "/loopz-docs/docs/getting-started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/quick-start",
+              "path": "/loopz-docs/docs/getting-started/quick-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/authentication",
+              "path": "/loopz-docs/docs/guides/authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/chat",
+              "path": "/loopz-docs/docs/guides/chat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/notifications",
+              "path": "/loopz-docs/docs/guides/notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/trading",
+              "path": "/loopz-docs/docs/guides/trading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/loopz-docs/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/loopz-docs/docs/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "use-cases",
+              "path": "/loopz-docs/docs/use-cases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/loopz-docs/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/guides",
+              "path": "/loopz-docs/docs/category/guides",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/loopz-docs/docs/",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

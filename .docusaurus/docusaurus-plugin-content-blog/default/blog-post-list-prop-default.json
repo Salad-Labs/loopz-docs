@@ -1,0 +1,29 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Designing a Modular SDK Architecture for Web3 Applications",
+      "permalink": "/loopz-docs/blog/designing-modular-sdk-architecture-web3",
+      "unlisted": false,
+      "date": "2024-02-20T00:00:00.000Z"
+    },
+    {
+      "title": "Designing a React-First Web3 SDK: Patterns and Pitfalls",
+      "permalink": "/loopz-docs/blog/designing-react-first-web3-sdk",
+      "unlisted": false,
+      "date": "2024-02-15T00:00:00.000Z"
+    },
+    {
+      "title": "Building a Real-Time Encrypted Chat System for Web3 Trading",
+      "permalink": "/loopz-docs/blog/building-encrypted-chat-web3",
+      "unlisted": false,
+      "date": "2024-02-01T00:00:00.000Z"
+    },
+    {
+      "title": "From Privy to OTP: The Evolution of Authentication in Loopz SDK",
+      "permalink": "/loopz-docs/blog/evolution-of-authentication-loopz-sdk",
+      "unlisted": false,
+      "date": "2024-01-15T00:00:00.000Z"
+    }
+  ]
+}

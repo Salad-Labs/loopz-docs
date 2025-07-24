@@ -1,0 +1,367 @@
+{
+  "/loopz-docs/blog-79a": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "86e38478"
+      },
+      {
+        "content": "c137e939"
+      },
+      {
+        "content": "42146018"
+      },
+      {
+        "content": "87c2d163"
+      }
+    ],
+    "__props": "41f3c296"
+  },
+  "/loopz-docs/blog/archive-de8": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "5e7f4e66"
+  },
+  "/loopz-docs/blog/authors-554": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "f83cde4f"
+  },
+  "/loopz-docs/blog/authors/mattiamigliore-f77": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "86e38478"
+      },
+      {
+        "content": "c137e939"
+      },
+      {
+        "content": "42146018"
+      },
+      {
+        "content": "87c2d163"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "5c5e0745"
+  },
+  "/loopz-docs/blog/building-encrypted-chat-web3-495": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "71eddf79"
+  },
+  "/loopz-docs/blog/designing-modular-sdk-architecture-web3-d62": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "64ef3240"
+  },
+  "/loopz-docs/blog/designing-react-first-web3-sdk-961": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "7729d2ff"
+  },
+  "/loopz-docs/blog/evolution-of-authentication-loopz-sdk-360": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "82c725d0"
+  },
+  "/loopz-docs/blog/tags-636": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "2ae70aa7"
+  },
+  "/loopz-docs/blog/tags/architecture-af6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "86e38478"
+      },
+      {
+        "content": "c137e939"
+      },
+      {
+        "content": "42146018"
+      },
+      {
+        "content": "87c2d163"
+      }
+    ],
+    "__props": "4ce29cb1"
+  },
+  "/loopz-docs/blog/tags/authentication-337": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "87c2d163"
+      }
+    ],
+    "__props": "1b2801df"
+  },
+  "/loopz-docs/blog/tags/chat-e38": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "42146018"
+      }
+    ],
+    "__props": "969bb4f3"
+  },
+  "/loopz-docs/blog/tags/design-patterns-ce5": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "86e38478"
+      }
+    ],
+    "__props": "3c4526c2"
+  },
+  "/loopz-docs/blog/tags/development-34d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "87c2d163"
+      }
+    ],
+    "__props": "d0c6b7c4"
+  },
+  "/loopz-docs/blog/tags/encryption-428": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "42146018"
+      }
+    ],
+    "__props": "66a904f1"
+  },
+  "/loopz-docs/blog/tags/hooks-0b7": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c137e939"
+      }
+    ],
+    "__props": "1202e704"
+  },
+  "/loopz-docs/blog/tags/react-63b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c137e939"
+      }
+    ],
+    "__props": "6cbb6223"
+  },
+  "/loopz-docs/blog/tags/sdk-d84": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "86e38478"
+      },
+      {
+        "content": "c137e939"
+      }
+    ],
+    "__props": "442b8fd4"
+  },
+  "/loopz-docs/blog/tags/typescript-31c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "86e38478"
+      }
+    ],
+    "__props": "426b23de"
+  },
+  "/loopz-docs/blog/tags/web-3-a7e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "86e38478"
+      },
+      {
+        "content": "c137e939"
+      },
+      {
+        "content": "42146018"
+      },
+      {
+        "content": "87c2d163"
+      }
+    ],
+    "__props": "f9bb027b"
+  },
+  "/loopz-docs/blog/tags/websocket-8a0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "42146018"
+      }
+    ],
+    "__props": "e43d7884"
+  },
+  "/loopz-docs/markdown-page-c63": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/loopz-docs/docs-ff5": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/loopz-docs/docs-0d2": {
+    "__comp": "a7bd4aaa",
+    "__props": "d38eaaf9"
+  },
+  "/loopz-docs/docs-1ff": {
+    "__comp": "a94703ab"
+  },
+  "/loopz-docs/docs-e8a": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/loopz-docs/docs/category/getting-started-343": {
+    "__comp": "14eb3368",
+    "__props": "524769f1"
+  },
+  "/loopz-docs/docs/category/guides-bcf": {
+    "__comp": "14eb3368",
+    "__props": "528cbdad"
+  },
+  "/loopz-docs/docs/getting-started/installation-68c": {
+    "__comp": "17896441",
+    "content": "54f44165"
+  },
+  "/loopz-docs/docs/getting-started/quick-start-2df": {
+    "__comp": "17896441",
+    "content": "588bd741"
+  },
+  "/loopz-docs/docs/guides/authentication-0e7": {
+    "__comp": "17896441",
+    "content": "e4c8a744"
+  },
+  "/loopz-docs/docs/guides/chat-48d": {
+    "__comp": "17896441",
+    "content": "7c12a14e"
+  },
+  "/loopz-docs/docs/guides/notifications-0e5": {
+    "__comp": "17896441",
+    "content": "9792ec6f"
+  },
+  "/loopz-docs/docs/guides/trading-ee3": {
+    "__comp": "17896441",
+    "content": "92008c52"
+  },
+  "/loopz-docs/docs/troubleshooting-c86": {
+    "__comp": "17896441",
+    "content": "9d9f8394"
+  },
+  "/loopz-docs/docs/use-cases-09c": {
+    "__comp": "17896441",
+    "content": "401a4ed1"
+  },
+  "/loopz-docs/-0bc": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

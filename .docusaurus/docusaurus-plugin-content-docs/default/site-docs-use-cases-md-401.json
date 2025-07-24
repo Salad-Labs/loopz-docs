@@ -1,0 +1,40 @@
+{
+  "id": "use-cases",
+  "title": "Use Cases",
+  "description": "Real-world use cases and implementation examples for the Loopz SDK",
+  "source": "@site/docs/use-cases.md",
+  "sourceDirName": ".",
+  "slug": "/use-cases",
+  "permalink": "/loopz-docs/docs/use-cases",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/use-cases.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "use-cases",
+    "title": "Use Cases",
+    "sidebar_label": "Use Cases",
+    "sidebar_position": 4,
+    "keywords": [
+      "use cases",
+      "examples",
+      "marketplace",
+      "trading",
+      "chat",
+      "NFT",
+      "real world"
+    ],
+    "description": "Real-world use cases and implementation examples for the Loopz SDK"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notifications",
+    "permalink": "/loopz-docs/docs/guides/notifications"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/loopz-docs/docs/troubleshooting"
+  }
+}

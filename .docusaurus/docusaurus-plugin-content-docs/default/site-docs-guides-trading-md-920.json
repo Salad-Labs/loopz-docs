@@ -1,0 +1,40 @@
+{
+  "id": "guides/trading",
+  "title": "Trading Guide",
+  "description": "Complete guide to NFT and token trading with the Loopz SDK",
+  "source": "@site/docs/guides/trading.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/trading",
+  "permalink": "/loopz-docs/docs/guides/trading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/trading.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "trading",
+    "title": "Trading Guide",
+    "sidebar_label": "Trading",
+    "sidebar_position": 2,
+    "keywords": [
+      "trading",
+      "NFT",
+      "marketplace",
+      "order",
+      "proposal",
+      "Seaport",
+      "OpenSea"
+    ],
+    "description": "Complete guide to NFT and token trading with the Loopz SDK"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chat",
+    "permalink": "/loopz-docs/docs/guides/chat"
+  },
+  "next": {
+    "title": "Notifications",
+    "permalink": "/loopz-docs/docs/guides/notifications"
+  }
+}
