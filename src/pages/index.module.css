@@ -1,0 +1,67 @@
+/* Custom styles for homepage */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.quickLinks {
+  padding: 3rem 0;
+  background-color: var(--ifm-background-surface-color);
+}
+
+.quickLinks .card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.quickLinks .card__body {
+  flex: 1;
+}
+
+.codeSection {
+  padding: 4rem 0;
+  background-color: var(--ifm-background-color);
+}
+
+.codeBlock {
+  background-color: var(--ifm-pre-background);
+  border-radius: var(--ifm-code-border-radius);
+  padding: 1rem;
+  overflow-x: auto;
+  box-shadow: var(--ifm-global-shadow-md);
+}
+
+.codeBlock code {
+  background: transparent;
+  padding: 0;
+}
+
+.features {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.features > div {
+  font-size: 1.1rem;
+  color: var(--ifm-color-primary-darker);
+}
